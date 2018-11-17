@@ -1,0 +1,18 @@
+h1{
+	color:red;
+	border: 5px purple solid;
+
+}
+
+li{
+	color:green;
+}
+
+h4{
+	color:orange;
+	background:rgb(10,20,30);
+}
+body{
+	/*background:url(https://sm.ign.com/ign_br/screenshot/default/myhero1_5qsg.jpg);
+	background-size:cover;/*
+}

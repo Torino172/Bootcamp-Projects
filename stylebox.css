@@ -1,0 +1,29 @@
+p{
+
+
+/*Content - Width and Height*/
+
+width: 50%;
+/*Border*/
+
+border: 2px solid blue;
+
+/*Padding*/
+
+/*padding: 10px*/
+
+padding-left: 40px;
+
+/*Margin*/
+
+/*margin: 100px;*/
+
+/*trick about margins
+	you can use the margin command and give it 4 values
+	exemple:
+	margin:20px 40px 30px 10px;
+
+	the first value is the top margin, the second is the right, the third is the bottom and ther fourth is the left*/
+
+margin: 20px 40px 30px 10px;
+}
